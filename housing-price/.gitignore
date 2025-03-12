@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg
+*.eggs
+*.dist-info/
+*.eggs-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS generated files
+.DS_Store
+
+# Windows generated files
+Thumbs.db
